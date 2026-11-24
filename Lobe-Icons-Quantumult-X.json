@@ -1,0 +1,3878 @@
+{
+  "name": "Lobe Icons · AI 图标",
+  "description": "来自 Lobe Icons PNG 2.12.0 的 968 张方形图标。上游 https://github.com/lobehub/lobe-icons",
+  "icons": [
+    {
+      "name": "NotebookLM · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/notebooklm.png"
+    },
+    {
+      "name": "NotebookLM · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/notebooklm.png"
+    },
+    {
+      "name": "ace · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ace.png"
+    },
+    {
+      "name": "ace · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ace.png"
+    },
+    {
+      "name": "adobe · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/adobe.png"
+    },
+    {
+      "name": "adobe · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/adobe.png"
+    },
+    {
+      "name": "adobe · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/adobe-color.png"
+    },
+    {
+      "name": "adobefirefly · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/adobefirefly.png"
+    },
+    {
+      "name": "adobefirefly · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/adobefirefly.png"
+    },
+    {
+      "name": "adobefirefly · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/adobefirefly-color.png"
+    },
+    {
+      "name": "agentvoice · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/agentvoice.png"
+    },
+    {
+      "name": "agentvoice · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/agentvoice.png"
+    },
+    {
+      "name": "agentvoice · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/agentvoice-color.png"
+    },
+    {
+      "name": "agnesai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/agnesai.png"
+    },
+    {
+      "name": "agnesai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/agnesai.png"
+    },
+    {
+      "name": "agui · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/agui.png"
+    },
+    {
+      "name": "agui · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/agui.png"
+    },
+    {
+      "name": "ai2 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai2.png"
+    },
+    {
+      "name": "ai2 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ai2.png"
+    },
+    {
+      "name": "ai2 · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai2-color.png"
+    },
+    {
+      "name": "ai21 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai21.png"
+    },
+    {
+      "name": "ai21 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ai21.png"
+    },
+    {
+      "name": "ai302 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai302.png"
+    },
+    {
+      "name": "ai302 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ai302.png"
+    },
+    {
+      "name": "ai302 · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai302-color.png"
+    },
+    {
+      "name": "ai360 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai360.png"
+    },
+    {
+      "name": "ai360 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ai360.png"
+    },
+    {
+      "name": "ai360 · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ai360-color.png"
+    },
+    {
+      "name": "aihubmix · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aihubmix.png"
+    },
+    {
+      "name": "aihubmix · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aihubmix.png"
+    },
+    {
+      "name": "aihubmix · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aihubmix-color.png"
+    },
+    {
+      "name": "aimass · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aimass.png"
+    },
+    {
+      "name": "aimass · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aimass.png"
+    },
+    {
+      "name": "aimass · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aimass-color.png"
+    },
+    {
+      "name": "aimlapi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aimlapi.png"
+    },
+    {
+      "name": "aimlapi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aimlapi.png"
+    },
+    {
+      "name": "aionlabs · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aionlabs.png"
+    },
+    {
+      "name": "aionlabs · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aionlabs.png"
+    },
+    {
+      "name": "aionlabs · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aionlabs-color.png"
+    },
+    {
+      "name": "airjelly · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/airjelly.png"
+    },
+    {
+      "name": "airjelly · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/airjelly.png"
+    },
+    {
+      "name": "airjelly · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/airjelly-color.png"
+    },
+    {
+      "name": "aistudio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aistudio.png"
+    },
+    {
+      "name": "aistudio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aistudio.png"
+    },
+    {
+      "name": "akashchat · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/akashchat.png"
+    },
+    {
+      "name": "akashchat · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/akashchat.png"
+    },
+    {
+      "name": "akashchat · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/akashchat-color.png"
+    },
+    {
+      "name": "alephalpha · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/alephalpha.png"
+    },
+    {
+      "name": "alephalpha · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/alephalpha.png"
+    },
+    {
+      "name": "alibaba · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/alibaba.png"
+    },
+    {
+      "name": "alibaba · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/alibaba.png"
+    },
+    {
+      "name": "alibaba · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/alibaba-color.png"
+    },
+    {
+      "name": "alibabacloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/alibabacloud.png"
+    },
+    {
+      "name": "alibabacloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/alibabacloud.png"
+    },
+    {
+      "name": "alibabacloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/alibabacloud-color.png"
+    },
+    {
+      "name": "amdradeoncloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/amdradeoncloud.png"
+    },
+    {
+      "name": "amdradeoncloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/amdradeoncloud.png"
+    },
+    {
+      "name": "amdradeoncloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/amdradeoncloud-color.png"
+    },
+    {
+      "name": "amp · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/amp.png"
+    },
+    {
+      "name": "amp · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/amp.png"
+    },
+    {
+      "name": "amp · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/amp-color.png"
+    },
+    {
+      "name": "anspire · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/anspire.png"
+    },
+    {
+      "name": "anspire · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/anspire.png"
+    },
+    {
+      "name": "anspire · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/anspire-color.png"
+    },
+    {
+      "name": "antgroup · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/antgroup.png"
+    },
+    {
+      "name": "antgroup · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/antgroup.png"
+    },
+    {
+      "name": "antgroup · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/antgroup-color.png"
+    },
+    {
+      "name": "anthropic · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/anthropic.png"
+    },
+    {
+      "name": "anthropic · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/anthropic.png"
+    },
+    {
+      "name": "antigravity · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/antigravity.png"
+    },
+    {
+      "name": "antigravity · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/antigravity.png"
+    },
+    {
+      "name": "antigravity · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/antigravity-color.png"
+    },
+    {
+      "name": "anyscale · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/anyscale.png"
+    },
+    {
+      "name": "anyscale · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/anyscale.png"
+    },
+    {
+      "name": "anyscale · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/anyscale-color.png"
+    },
+    {
+      "name": "apertis · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/apertis.png"
+    },
+    {
+      "name": "apertis · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/apertis.png"
+    },
+    {
+      "name": "apertis · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/apertis-color.png"
+    },
+    {
+      "name": "apple · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/apple.png"
+    },
+    {
+      "name": "apple · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/apple.png"
+    },
+    {
+      "name": "appwrite · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/appwrite.png"
+    },
+    {
+      "name": "appwrite · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/appwrite.png"
+    },
+    {
+      "name": "appwrite · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/appwrite-color.png"
+    },
+    {
+      "name": "arcee · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/arcee.png"
+    },
+    {
+      "name": "arcee · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/arcee.png"
+    },
+    {
+      "name": "arcee · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/arcee-color.png"
+    },
+    {
+      "name": "askverdict · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/askverdict.png"
+    },
+    {
+      "name": "askverdict · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/askverdict.png"
+    },
+    {
+      "name": "askverdict · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/askverdict-color.png"
+    },
+    {
+      "name": "assemblyai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/assemblyai.png"
+    },
+    {
+      "name": "assemblyai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/assemblyai.png"
+    },
+    {
+      "name": "assemblyai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/assemblyai-color.png"
+    },
+    {
+      "name": "atlascloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/atlascloud.png"
+    },
+    {
+      "name": "atlascloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/atlascloud.png"
+    },
+    {
+      "name": "automatic · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/automatic.png"
+    },
+    {
+      "name": "automatic · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/automatic.png"
+    },
+    {
+      "name": "automatic · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/automatic-color.png"
+    },
+    {
+      "name": "aws · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aws.png"
+    },
+    {
+      "name": "aws · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aws.png"
+    },
+    {
+      "name": "aws · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aws-color.png"
+    },
+    {
+      "name": "aws · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aws-color.png"
+    },
+    {
+      "name": "aya · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aya.png"
+    },
+    {
+      "name": "aya · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/aya.png"
+    },
+    {
+      "name": "aya · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/aya-color.png"
+    },
+    {
+      "name": "azure · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/azure.png"
+    },
+    {
+      "name": "azure · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/azure.png"
+    },
+    {
+      "name": "azure · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/azure-color.png"
+    },
+    {
+      "name": "azureai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/azureai.png"
+    },
+    {
+      "name": "azureai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/azureai.png"
+    },
+    {
+      "name": "azureai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/azureai-color.png"
+    },
+    {
+      "name": "baai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baai.png"
+    },
+    {
+      "name": "baai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/baai.png"
+    },
+    {
+      "name": "baichuan · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baichuan.png"
+    },
+    {
+      "name": "baichuan · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/baichuan.png"
+    },
+    {
+      "name": "baichuan · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baichuan-color.png"
+    },
+    {
+      "name": "baidu · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baidu.png"
+    },
+    {
+      "name": "baidu · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/baidu.png"
+    },
+    {
+      "name": "baidu · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baidu-color.png"
+    },
+    {
+      "name": "baiducloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baiducloud.png"
+    },
+    {
+      "name": "baiducloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/baiducloud.png"
+    },
+    {
+      "name": "baiducloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baiducloud-color.png"
+    },
+    {
+      "name": "bailian · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bailian.png"
+    },
+    {
+      "name": "bailian · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bailian.png"
+    },
+    {
+      "name": "bailian · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bailian-color.png"
+    },
+    {
+      "name": "baseten · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/baseten.png"
+    },
+    {
+      "name": "baseten · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/baseten.png"
+    },
+    {
+      "name": "bedrock · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bedrock.png"
+    },
+    {
+      "name": "bedrock · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bedrock.png"
+    },
+    {
+      "name": "bedrock · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bedrock-color.png"
+    },
+    {
+      "name": "bfl · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bfl.png"
+    },
+    {
+      "name": "bfl · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bfl.png"
+    },
+    {
+      "name": "bilibili · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bilibili.png"
+    },
+    {
+      "name": "bilibili · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bilibili.png"
+    },
+    {
+      "name": "bilibili · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bilibili-color.png"
+    },
+    {
+      "name": "bilibiliindex · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bilibiliindex.png"
+    },
+    {
+      "name": "bilibiliindex · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bilibiliindex.png"
+    },
+    {
+      "name": "bing · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bing.png"
+    },
+    {
+      "name": "bing · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bing.png"
+    },
+    {
+      "name": "bing · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bing-color.png"
+    },
+    {
+      "name": "bocha · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bocha.png"
+    },
+    {
+      "name": "bocha · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bocha.png"
+    },
+    {
+      "name": "bocha · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bocha-color.png"
+    },
+    {
+      "name": "brave · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/brave.png"
+    },
+    {
+      "name": "brave · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/brave.png"
+    },
+    {
+      "name": "brave · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/brave-color.png"
+    },
+    {
+      "name": "briaai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/briaai.png"
+    },
+    {
+      "name": "briaai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/briaai.png"
+    },
+    {
+      "name": "briaai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/briaai-color.png"
+    },
+    {
+      "name": "browserless · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/browserless.png"
+    },
+    {
+      "name": "browserless · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/browserless.png"
+    },
+    {
+      "name": "burncloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/burncloud.png"
+    },
+    {
+      "name": "burncloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/burncloud.png"
+    },
+    {
+      "name": "burncloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/burncloud-color.png"
+    },
+    {
+      "name": "bytedance · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bytedance.png"
+    },
+    {
+      "name": "bytedance · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/bytedance.png"
+    },
+    {
+      "name": "bytedance · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/bytedance-color.png"
+    },
+    {
+      "name": "capcut · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/capcut.png"
+    },
+    {
+      "name": "capcut · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/capcut.png"
+    },
+    {
+      "name": "celestoai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/celestoai.png"
+    },
+    {
+      "name": "celestoai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/celestoai.png"
+    },
+    {
+      "name": "celestoai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/celestoai-color.png"
+    },
+    {
+      "name": "centml · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/centml.png"
+    },
+    {
+      "name": "centml · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/centml.png"
+    },
+    {
+      "name": "centml · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/centml-color.png"
+    },
+    {
+      "name": "centml · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/centml-color.png"
+    },
+    {
+      "name": "cerebras · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cerebras.png"
+    },
+    {
+      "name": "cerebras · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cerebras.png"
+    },
+    {
+      "name": "cerebras · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cerebras-color.png"
+    },
+    {
+      "name": "cerebras · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cerebras-color.png"
+    },
+    {
+      "name": "chatglm · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/chatglm.png"
+    },
+    {
+      "name": "chatglm · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/chatglm.png"
+    },
+    {
+      "name": "chatglm · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/chatglm-color.png"
+    },
+    {
+      "name": "cheaperinference · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cheaperinference.png"
+    },
+    {
+      "name": "cheaperinference · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cheaperinference.png"
+    },
+    {
+      "name": "cherrystudio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cherrystudio.png"
+    },
+    {
+      "name": "cherrystudio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cherrystudio.png"
+    },
+    {
+      "name": "cherrystudio · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cherrystudio-color.png"
+    },
+    {
+      "name": "chutes · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/chutes.png"
+    },
+    {
+      "name": "chutes · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/chutes.png"
+    },
+    {
+      "name": "civitai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/civitai.png"
+    },
+    {
+      "name": "civitai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/civitai.png"
+    },
+    {
+      "name": "civitai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/civitai-color.png"
+    },
+    {
+      "name": "Claude · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/claude.png"
+    },
+    {
+      "name": "Claude · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/claude.png"
+    },
+    {
+      "name": "Claude · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/claude-color.png"
+    },
+    {
+      "name": "claudecode · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/claudecode.png"
+    },
+    {
+      "name": "claudecode · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/claudecode.png"
+    },
+    {
+      "name": "claudecode · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/claudecode-color.png"
+    },
+    {
+      "name": "cline · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cline.png"
+    },
+    {
+      "name": "cline · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cline.png"
+    },
+    {
+      "name": "clipdrop · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/clipdrop.png"
+    },
+    {
+      "name": "clipdrop · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/clipdrop.png"
+    },
+    {
+      "name": "cloudflare · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cloudflare.png"
+    },
+    {
+      "name": "cloudflare · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cloudflare.png"
+    },
+    {
+      "name": "cloudflare · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cloudflare-color.png"
+    },
+    {
+      "name": "codebuddy · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codebuddy.png"
+    },
+    {
+      "name": "codebuddy · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/codebuddy.png"
+    },
+    {
+      "name": "codebuddy · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codebuddy-color.png"
+    },
+    {
+      "name": "codeflicker · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codeflicker.png"
+    },
+    {
+      "name": "codeflicker · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/codeflicker.png"
+    },
+    {
+      "name": "codeflicker · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codeflicker-color.png"
+    },
+    {
+      "name": "codeflicker · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/codeflicker-color.png"
+    },
+    {
+      "name": "codegeex · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codegeex.png"
+    },
+    {
+      "name": "codegeex · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/codegeex.png"
+    },
+    {
+      "name": "codegeex · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codegeex-color.png"
+    },
+    {
+      "name": "codex · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codex.png"
+    },
+    {
+      "name": "codex · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/codex.png"
+    },
+    {
+      "name": "codex · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/codex-color.png"
+    },
+    {
+      "name": "cogvideo",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cogvideo.png"
+    },
+    {
+      "name": "cogvideo · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cogvideo-color.png"
+    },
+    {
+      "name": "cogview",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cogview.png"
+    },
+    {
+      "name": "cogview · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cogview-color.png"
+    },
+    {
+      "name": "cohere · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cohere.png"
+    },
+    {
+      "name": "cohere · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cohere.png"
+    },
+    {
+      "name": "cohere · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cohere-color.png"
+    },
+    {
+      "name": "colab · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/colab.png"
+    },
+    {
+      "name": "colab · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/colab.png"
+    },
+    {
+      "name": "colab · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/colab-color.png"
+    },
+    {
+      "name": "cometapi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cometapi.png"
+    },
+    {
+      "name": "cometapi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cometapi.png"
+    },
+    {
+      "name": "cometapi · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cometapi-color.png"
+    },
+    {
+      "name": "comfyui · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/comfyui.png"
+    },
+    {
+      "name": "comfyui · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/comfyui.png"
+    },
+    {
+      "name": "comfyui · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/comfyui-color.png"
+    },
+    {
+      "name": "commanda · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/commanda.png"
+    },
+    {
+      "name": "commanda · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/commanda.png"
+    },
+    {
+      "name": "commanda · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/commanda-color.png"
+    },
+    {
+      "name": "commandcode · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/commandcode.png"
+    },
+    {
+      "name": "commandcode · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/commandcode.png"
+    },
+    {
+      "name": "Copilot · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/copilot.png"
+    },
+    {
+      "name": "Copilot · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/copilot.png"
+    },
+    {
+      "name": "Copilot · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/copilot-color.png"
+    },
+    {
+      "name": "copilotkit · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/copilotkit.png"
+    },
+    {
+      "name": "copilotkit · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/copilotkit.png"
+    },
+    {
+      "name": "copilotkit · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/copilotkit-color.png"
+    },
+    {
+      "name": "coqui · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/coqui.png"
+    },
+    {
+      "name": "coqui · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/coqui.png"
+    },
+    {
+      "name": "coqui · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/coqui-color.png"
+    },
+    {
+      "name": "coze · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/coze.png"
+    },
+    {
+      "name": "coze · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/coze.png"
+    },
+    {
+      "name": "crewai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/crewai.png"
+    },
+    {
+      "name": "crewai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/crewai.png"
+    },
+    {
+      "name": "crewai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/crewai-color.png"
+    },
+    {
+      "name": "crusoe · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/crusoe.png"
+    },
+    {
+      "name": "crusoe · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/crusoe.png"
+    },
+    {
+      "name": "crusoe · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/crusoe-color.png"
+    },
+    {
+      "name": "cursor · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cursor.png"
+    },
+    {
+      "name": "cursor · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cursor.png"
+    },
+    {
+      "name": "cybercut · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/cybercut.png"
+    },
+    {
+      "name": "cybercut · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/cybercut.png"
+    },
+    {
+      "name": "dalle · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dalle.png"
+    },
+    {
+      "name": "dalle · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dalle.png"
+    },
+    {
+      "name": "dalle · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dalle-color.png"
+    },
+    {
+      "name": "dbrx · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dbrx.png"
+    },
+    {
+      "name": "dbrx · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dbrx.png"
+    },
+    {
+      "name": "dbrx · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dbrx-color.png"
+    },
+    {
+      "name": "decart · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/decart.png"
+    },
+    {
+      "name": "decart · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/decart.png"
+    },
+    {
+      "name": "decart · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/decart-color.png"
+    },
+    {
+      "name": "deepai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepai.png"
+    },
+    {
+      "name": "deepai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/deepai.png"
+    },
+    {
+      "name": "deepcogito · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepcogito.png"
+    },
+    {
+      "name": "deepcogito · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/deepcogito.png"
+    },
+    {
+      "name": "deepcogito · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepcogito-color.png"
+    },
+    {
+      "name": "deepinfra · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepinfra.png"
+    },
+    {
+      "name": "deepinfra · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/deepinfra.png"
+    },
+    {
+      "name": "deepinfra · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepinfra-color.png"
+    },
+    {
+      "name": "deepl · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepl.png"
+    },
+    {
+      "name": "deepl · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/deepl.png"
+    },
+    {
+      "name": "deepl · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepl-color.png"
+    },
+    {
+      "name": "deepmind · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepmind.png"
+    },
+    {
+      "name": "deepmind · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/deepmind.png"
+    },
+    {
+      "name": "deepmind · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepmind-color.png"
+    },
+    {
+      "name": "DeepSeek · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepseek.png"
+    },
+    {
+      "name": "DeepSeek · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/deepseek.png"
+    },
+    {
+      "name": "DeepSeek · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/deepseek-color.png"
+    },
+    {
+      "name": "devin · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/devin.png"
+    },
+    {
+      "name": "devin · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/devin.png"
+    },
+    {
+      "name": "devin · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/devin-color.png"
+    },
+    {
+      "name": "dify · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dify.png"
+    },
+    {
+      "name": "dify · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dify.png"
+    },
+    {
+      "name": "dify · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dify-color.png"
+    },
+    {
+      "name": "digitalocean · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/digitalocean.png"
+    },
+    {
+      "name": "digitalocean · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/digitalocean.png"
+    },
+    {
+      "name": "doc2x · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/doc2x.png"
+    },
+    {
+      "name": "doc2x · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/doc2x.png"
+    },
+    {
+      "name": "doc2x · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/doc2x-color.png"
+    },
+    {
+      "name": "docsearch · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/docsearch.png"
+    },
+    {
+      "name": "docsearch · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/docsearch.png"
+    },
+    {
+      "name": "docsearch · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/docsearch-color.png"
+    },
+    {
+      "name": "docsearch · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/docsearch-color.png"
+    },
+    {
+      "name": "dolphin · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dolphin.png"
+    },
+    {
+      "name": "dolphin · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dolphin.png"
+    },
+    {
+      "name": "dothoosh · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dothoosh.png"
+    },
+    {
+      "name": "dothoosh · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dothoosh.png"
+    },
+    {
+      "name": "dothoosh · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dothoosh-color.png"
+    },
+    {
+      "name": "dothoosh · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dothoosh-color.png"
+    },
+    {
+      "name": "dotsstudio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dotsstudio.png"
+    },
+    {
+      "name": "dotsstudio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dotsstudio.png"
+    },
+    {
+      "name": "doubao · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/doubao.png"
+    },
+    {
+      "name": "doubao · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/doubao.png"
+    },
+    {
+      "name": "doubao · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/doubao-color.png"
+    },
+    {
+      "name": "dreammachine · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/dreammachine.png"
+    },
+    {
+      "name": "dreammachine · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/dreammachine.png"
+    },
+    {
+      "name": "elevenlabs · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/elevenlabs.png"
+    },
+    {
+      "name": "elevenlabs · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/elevenlabs.png"
+    },
+    {
+      "name": "elevenx · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/elevenx.png"
+    },
+    {
+      "name": "elevenx · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/elevenx.png"
+    },
+    {
+      "name": "empiriolabs · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/empiriolabs.png"
+    },
+    {
+      "name": "empiriolabs · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/empiriolabs.png"
+    },
+    {
+      "name": "empiriolabs · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/empiriolabs-color.png"
+    },
+    {
+      "name": "essentialai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/essentialai.png"
+    },
+    {
+      "name": "essentialai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/essentialai.png"
+    },
+    {
+      "name": "essentialai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/essentialai-color.png"
+    },
+    {
+      "name": "exa · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/exa.png"
+    },
+    {
+      "name": "exa · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/exa.png"
+    },
+    {
+      "name": "exa · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/exa-color.png"
+    },
+    {
+      "name": "fal · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fal.png"
+    },
+    {
+      "name": "fal · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/fal.png"
+    },
+    {
+      "name": "fal · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fal-color.png"
+    },
+    {
+      "name": "fastgpt · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fastgpt.png"
+    },
+    {
+      "name": "fastgpt · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/fastgpt.png"
+    },
+    {
+      "name": "fastgpt · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fastgpt-color.png"
+    },
+    {
+      "name": "featherless · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/featherless.png"
+    },
+    {
+      "name": "featherless · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/featherless.png"
+    },
+    {
+      "name": "featherless · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/featherless-color.png"
+    },
+    {
+      "name": "figma · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/figma.png"
+    },
+    {
+      "name": "figma · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/figma.png"
+    },
+    {
+      "name": "figma · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/figma-color.png"
+    },
+    {
+      "name": "firecrawl · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/firecrawl.png"
+    },
+    {
+      "name": "firecrawl · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/firecrawl.png"
+    },
+    {
+      "name": "firecrawl · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/firecrawl-color.png"
+    },
+    {
+      "name": "fireworks · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fireworks.png"
+    },
+    {
+      "name": "fireworks · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/fireworks.png"
+    },
+    {
+      "name": "fireworks · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fireworks-color.png"
+    },
+    {
+      "name": "fishaudio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/fishaudio.png"
+    },
+    {
+      "name": "fishaudio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/fishaudio.png"
+    },
+    {
+      "name": "flexai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/flexai.png"
+    },
+    {
+      "name": "flexai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/flexai.png"
+    },
+    {
+      "name": "flora · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/flora.png"
+    },
+    {
+      "name": "flora · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/flora.png"
+    },
+    {
+      "name": "flowith · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/flowith.png"
+    },
+    {
+      "name": "flowith · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/flowith.png"
+    },
+    {
+      "name": "flux · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/flux.png"
+    },
+    {
+      "name": "flux · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/flux.png"
+    },
+    {
+      "name": "friendli · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/friendli.png"
+    },
+    {
+      "name": "friendli · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/friendli.png"
+    },
+    {
+      "name": "Gemini · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gemini.png"
+    },
+    {
+      "name": "Gemini · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/gemini.png"
+    },
+    {
+      "name": "Gemini · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gemini-color.png"
+    },
+    {
+      "name": "geminicli · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/geminicli.png"
+    },
+    {
+      "name": "geminicli · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/geminicli.png"
+    },
+    {
+      "name": "geminicli · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/geminicli-color.png"
+    },
+    {
+      "name": "gemma · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gemma.png"
+    },
+    {
+      "name": "gemma · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/gemma.png"
+    },
+    {
+      "name": "gemma · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gemma-color.png"
+    },
+    {
+      "name": "giteeai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/giteeai.png"
+    },
+    {
+      "name": "giteeai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/giteeai.png"
+    },
+    {
+      "name": "github · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/github.png"
+    },
+    {
+      "name": "github · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/github.png"
+    },
+    {
+      "name": "githubcopilot · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/githubcopilot.png"
+    },
+    {
+      "name": "githubcopilot · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/githubcopilot.png"
+    },
+    {
+      "name": "glama · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/glama.png"
+    },
+    {
+      "name": "glama · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/glama.png"
+    },
+    {
+      "name": "glif · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/glif.png"
+    },
+    {
+      "name": "glif · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/glif.png"
+    },
+    {
+      "name": "glmv · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/glmv.png"
+    },
+    {
+      "name": "glmv · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/glmv.png"
+    },
+    {
+      "name": "glmv · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/glmv-color.png"
+    },
+    {
+      "name": "gmicloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gmicloud.png"
+    },
+    {
+      "name": "gmicloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/gmicloud.png"
+    },
+    {
+      "name": "google · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/google.png"
+    },
+    {
+      "name": "google · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/google.png"
+    },
+    {
+      "name": "google · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/google-color.png"
+    },
+    {
+      "name": "googlecloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/googlecloud.png"
+    },
+    {
+      "name": "googlecloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/googlecloud.png"
+    },
+    {
+      "name": "googlecloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/googlecloud-color.png"
+    },
+    {
+      "name": "goose · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/goose.png"
+    },
+    {
+      "name": "goose · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/goose.png"
+    },
+    {
+      "name": "gradio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gradio.png"
+    },
+    {
+      "name": "gradio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/gradio.png"
+    },
+    {
+      "name": "gradio · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/gradio-color.png"
+    },
+    {
+      "name": "greenpt · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/greenpt.png"
+    },
+    {
+      "name": "greenpt · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/greenpt.png"
+    },
+    {
+      "name": "greenpt · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/greenpt-color.png"
+    },
+    {
+      "name": "greptile · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/greptile.png"
+    },
+    {
+      "name": "greptile · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/greptile.png"
+    },
+    {
+      "name": "greptile · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/greptile-color.png"
+    },
+    {
+      "name": "Grok · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/grok.png"
+    },
+    {
+      "name": "Grok · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/grok.png"
+    },
+    {
+      "name": "grokbot · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/grokbot.png"
+    },
+    {
+      "name": "grokbot · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/grokbot.png"
+    },
+    {
+      "name": "groq · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/groq.png"
+    },
+    {
+      "name": "groq · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/groq.png"
+    },
+    {
+      "name": "hailuo · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hailuo.png"
+    },
+    {
+      "name": "hailuo · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/hailuo.png"
+    },
+    {
+      "name": "hailuo · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hailuo-color.png"
+    },
+    {
+      "name": "haiper · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/haiper.png"
+    },
+    {
+      "name": "haiper · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/haiper.png"
+    },
+    {
+      "name": "happyhorse · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/happyhorse.png"
+    },
+    {
+      "name": "happyhorse · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/happyhorse.png"
+    },
+    {
+      "name": "hedra · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hedra.png"
+    },
+    {
+      "name": "hedra · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/hedra.png"
+    },
+    {
+      "name": "hermesagent · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hermesagent.png"
+    },
+    {
+      "name": "hermesagent · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/hermesagent.png"
+    },
+    {
+      "name": "higress · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/higress.png"
+    },
+    {
+      "name": "higress · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/higress.png"
+    },
+    {
+      "name": "higress · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/higress-color.png"
+    },
+    {
+      "name": "huawei · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/huawei.png"
+    },
+    {
+      "name": "huawei · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/huawei.png"
+    },
+    {
+      "name": "huawei · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/huawei-color.png"
+    },
+    {
+      "name": "huaweicloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/huaweicloud.png"
+    },
+    {
+      "name": "huaweicloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/huaweicloud.png"
+    },
+    {
+      "name": "huaweicloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/huaweicloud-color.png"
+    },
+    {
+      "name": "huggingface · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/huggingface.png"
+    },
+    {
+      "name": "huggingface · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/huggingface.png"
+    },
+    {
+      "name": "huggingface · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/huggingface-color.png"
+    },
+    {
+      "name": "hunyuan · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hunyuan.png"
+    },
+    {
+      "name": "hunyuan · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/hunyuan.png"
+    },
+    {
+      "name": "hunyuan · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hunyuan-color.png"
+    },
+    {
+      "name": "hyperbolic · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hyperbolic.png"
+    },
+    {
+      "name": "hyperbolic · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/hyperbolic.png"
+    },
+    {
+      "name": "hyperbolic · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/hyperbolic-color.png"
+    },
+    {
+      "name": "ibm · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ibm.png"
+    },
+    {
+      "name": "ibm · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ibm.png"
+    },
+    {
+      "name": "ideogram · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ideogram.png"
+    },
+    {
+      "name": "ideogram · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ideogram.png"
+    },
+    {
+      "name": "iflytekcloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/iflytekcloud.png"
+    },
+    {
+      "name": "iflytekcloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/iflytekcloud.png"
+    },
+    {
+      "name": "iflytekcloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/iflytekcloud-color.png"
+    },
+    {
+      "name": "inception · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/inception.png"
+    },
+    {
+      "name": "inception · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/inception.png"
+    },
+    {
+      "name": "inceptron · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/inceptron.png"
+    },
+    {
+      "name": "inceptron · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/inceptron.png"
+    },
+    {
+      "name": "inceptron · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/inceptron-color.png"
+    },
+    {
+      "name": "inference · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/inference.png"
+    },
+    {
+      "name": "inference · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/inference.png"
+    },
+    {
+      "name": "infermatic · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/infermatic.png"
+    },
+    {
+      "name": "infermatic · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/infermatic.png"
+    },
+    {
+      "name": "infermatic · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/infermatic-color.png"
+    },
+    {
+      "name": "infinigence · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/infinigence.png"
+    },
+    {
+      "name": "infinigence · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/infinigence.png"
+    },
+    {
+      "name": "infinigence · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/infinigence-color.png"
+    },
+    {
+      "name": "inflection · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/inflection.png"
+    },
+    {
+      "name": "inflection · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/inflection.png"
+    },
+    {
+      "name": "internlm · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/internlm.png"
+    },
+    {
+      "name": "internlm · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/internlm.png"
+    },
+    {
+      "name": "internlm · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/internlm-color.png"
+    },
+    {
+      "name": "ionet · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ionet.png"
+    },
+    {
+      "name": "ionet · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ionet.png"
+    },
+    {
+      "name": "jimeng · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/jimeng.png"
+    },
+    {
+      "name": "jimeng · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/jimeng.png"
+    },
+    {
+      "name": "jimeng · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/jimeng-color.png"
+    },
+    {
+      "name": "jina · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/jina.png"
+    },
+    {
+      "name": "jina · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/jina.png"
+    },
+    {
+      "name": "junie · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/junie.png"
+    },
+    {
+      "name": "junie · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/junie.png"
+    },
+    {
+      "name": "junie · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/junie-color.png"
+    },
+    {
+      "name": "kagi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kagi.png"
+    },
+    {
+      "name": "kagi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kagi.png"
+    },
+    {
+      "name": "kilocode · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kilocode.png"
+    },
+    {
+      "name": "kilocode · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kilocode.png"
+    },
+    {
+      "name": "kimi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kimi.png"
+    },
+    {
+      "name": "kimi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kimi.png"
+    },
+    {
+      "name": "kimi · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kimi-color.png"
+    },
+    {
+      "name": "kimi · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kimi-color.png"
+    },
+    {
+      "name": "kiro · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kiro.png"
+    },
+    {
+      "name": "kiro · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kiro.png"
+    },
+    {
+      "name": "kiro · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kiro-color.png"
+    },
+    {
+      "name": "kling · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kling.png"
+    },
+    {
+      "name": "kling · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kling.png"
+    },
+    {
+      "name": "kling · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kling-color.png"
+    },
+    {
+      "name": "kluster · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kluster.png"
+    },
+    {
+      "name": "kluster · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kluster.png"
+    },
+    {
+      "name": "kluster · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kluster-color.png"
+    },
+    {
+      "name": "kluster · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kluster-color.png"
+    },
+    {
+      "name": "kolors · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kolors.png"
+    },
+    {
+      "name": "kolors · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kolors.png"
+    },
+    {
+      "name": "kolors · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kolors-color.png"
+    },
+    {
+      "name": "krea · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/krea.png"
+    },
+    {
+      "name": "krea · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/krea.png"
+    },
+    {
+      "name": "kwaikat · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kwaikat.png"
+    },
+    {
+      "name": "kwaikat · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kwaikat.png"
+    },
+    {
+      "name": "kwaipilot · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kwaipilot.png"
+    },
+    {
+      "name": "kwaipilot · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/kwaipilot.png"
+    },
+    {
+      "name": "kwaipilot · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/kwaipilot-color.png"
+    },
+    {
+      "name": "lambda · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lambda.png"
+    },
+    {
+      "name": "lambda · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/lambda.png"
+    },
+    {
+      "name": "langchain · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langchain.png"
+    },
+    {
+      "name": "langchain · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/langchain.png"
+    },
+    {
+      "name": "langchain · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langchain-color.png"
+    },
+    {
+      "name": "langfuse · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langfuse.png"
+    },
+    {
+      "name": "langfuse · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/langfuse.png"
+    },
+    {
+      "name": "langfuse · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langfuse-color.png"
+    },
+    {
+      "name": "langgraph · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langgraph.png"
+    },
+    {
+      "name": "langgraph · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/langgraph.png"
+    },
+    {
+      "name": "langgraph · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langgraph-color.png"
+    },
+    {
+      "name": "langsmith · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langsmith.png"
+    },
+    {
+      "name": "langsmith · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/langsmith.png"
+    },
+    {
+      "name": "langsmith · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/langsmith-color.png"
+    },
+    {
+      "name": "leptonai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/leptonai.png"
+    },
+    {
+      "name": "leptonai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/leptonai.png"
+    },
+    {
+      "name": "leptonai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/leptonai-color.png"
+    },
+    {
+      "name": "lg · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lg.png"
+    },
+    {
+      "name": "lg · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/lg.png"
+    },
+    {
+      "name": "lg · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lg-color.png"
+    },
+    {
+      "name": "lightricks · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lightricks.png"
+    },
+    {
+      "name": "lightricks · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/lightricks.png"
+    },
+    {
+      "name": "ling · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ling.png"
+    },
+    {
+      "name": "ling · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ling.png"
+    },
+    {
+      "name": "ling · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ling-color.png"
+    },
+    {
+      "name": "liquid · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/liquid.png"
+    },
+    {
+      "name": "liquid · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/liquid.png"
+    },
+    {
+      "name": "livekit · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/livekit.png"
+    },
+    {
+      "name": "livekit · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/livekit.png"
+    },
+    {
+      "name": "livekit · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/livekit-color.png"
+    },
+    {
+      "name": "llamaindex · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llamaindex.png"
+    },
+    {
+      "name": "llamaindex · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/llamaindex.png"
+    },
+    {
+      "name": "llamaindex · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llamaindex-color.png"
+    },
+    {
+      "name": "llava · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llava.png"
+    },
+    {
+      "name": "llava · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/llava.png"
+    },
+    {
+      "name": "llava · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llava-color.png"
+    },
+    {
+      "name": "llmapi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llmapi.png"
+    },
+    {
+      "name": "llmapi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/llmapi.png"
+    },
+    {
+      "name": "llmapi · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llmapi-color.png"
+    },
+    {
+      "name": "llmgateway · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/llmgateway.png"
+    },
+    {
+      "name": "llmgateway · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/llmgateway.png"
+    },
+    {
+      "name": "lmstudio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lmstudio.png"
+    },
+    {
+      "name": "lmstudio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/lmstudio.png"
+    },
+    {
+      "name": "lobehub",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lobehub.png"
+    },
+    {
+      "name": "lobehub · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lobehub-color.png"
+    },
+    {
+      "name": "lobot",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lobot.png"
+    },
+    {
+      "name": "longcat · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/longcat.png"
+    },
+    {
+      "name": "longcat · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/longcat.png"
+    },
+    {
+      "name": "longcat · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/longcat-color.png"
+    },
+    {
+      "name": "longcat · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/longcat-color.png"
+    },
+    {
+      "name": "lovable · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lovable.png"
+    },
+    {
+      "name": "lovable · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/lovable.png"
+    },
+    {
+      "name": "lovable · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lovable-color.png"
+    },
+    {
+      "name": "lovart · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/lovart.png"
+    },
+    {
+      "name": "lovart · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/lovart.png"
+    },
+    {
+      "name": "luma · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/luma.png"
+    },
+    {
+      "name": "luma · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/luma.png"
+    },
+    {
+      "name": "luma · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/luma-color.png"
+    },
+    {
+      "name": "magic · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/magic.png"
+    },
+    {
+      "name": "magic · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/magic.png"
+    },
+    {
+      "name": "magpie · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/magpie.png"
+    },
+    {
+      "name": "magpie · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/magpie.png"
+    },
+    {
+      "name": "make · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/make.png"
+    },
+    {
+      "name": "make · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/make.png"
+    },
+    {
+      "name": "make · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/make-color.png"
+    },
+    {
+      "name": "manus · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/manus.png"
+    },
+    {
+      "name": "manus · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/manus.png"
+    },
+    {
+      "name": "mastra · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/mastra.png"
+    },
+    {
+      "name": "mastra · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/mastra.png"
+    },
+    {
+      "name": "mcp · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/mcp.png"
+    },
+    {
+      "name": "mcp · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/mcp.png"
+    },
+    {
+      "name": "mcpso · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/mcpso.png"
+    },
+    {
+      "name": "mcpso · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/mcpso.png"
+    },
+    {
+      "name": "mcpso · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/mcpso-color.png"
+    },
+    {
+      "name": "menlo · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/menlo.png"
+    },
+    {
+      "name": "menlo · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/menlo.png"
+    },
+    {
+      "name": "menlo · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/menlo-color.png"
+    },
+    {
+      "name": "meshy · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/meshy.png"
+    },
+    {
+      "name": "meshy · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/meshy.png"
+    },
+    {
+      "name": "meshy · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/meshy-color.png"
+    },
+    {
+      "name": "meta · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/meta.png"
+    },
+    {
+      "name": "meta · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/meta.png"
+    },
+    {
+      "name": "meta · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/meta-color.png"
+    },
+    {
+      "name": "metaai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/metaai.png"
+    },
+    {
+      "name": "metaai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/metaai.png"
+    },
+    {
+      "name": "metaai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/metaai-color.png"
+    },
+    {
+      "name": "metagpt · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/metagpt.png"
+    },
+    {
+      "name": "metagpt · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/metagpt.png"
+    },
+    {
+      "name": "microsoft · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/microsoft.png"
+    },
+    {
+      "name": "microsoft · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/microsoft.png"
+    },
+    {
+      "name": "microsoft · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/microsoft-color.png"
+    },
+    {
+      "name": "midjourney · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/midjourney.png"
+    },
+    {
+      "name": "midjourney · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/midjourney.png"
+    },
+    {
+      "name": "minimax · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/minimax.png"
+    },
+    {
+      "name": "minimax · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/minimax.png"
+    },
+    {
+      "name": "minimax · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/minimax-color.png"
+    },
+    {
+      "name": "mistral · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/mistral.png"
+    },
+    {
+      "name": "mistral · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/mistral.png"
+    },
+    {
+      "name": "mistral · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/mistral-color.png"
+    },
+    {
+      "name": "modelscope · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/modelscope.png"
+    },
+    {
+      "name": "modelscope · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/modelscope.png"
+    },
+    {
+      "name": "modelscope · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/modelscope-color.png"
+    },
+    {
+      "name": "monica · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/monica.png"
+    },
+    {
+      "name": "monica · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/monica.png"
+    },
+    {
+      "name": "monica · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/monica-color.png"
+    },
+    {
+      "name": "moonshot · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/moonshot.png"
+    },
+    {
+      "name": "moonshot · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/moonshot.png"
+    },
+    {
+      "name": "morph · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/morph.png"
+    },
+    {
+      "name": "morph · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/morph.png"
+    },
+    {
+      "name": "morph · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/morph-color.png"
+    },
+    {
+      "name": "moxt · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/moxt.png"
+    },
+    {
+      "name": "moxt · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/moxt.png"
+    },
+    {
+      "name": "moxt · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/moxt-color.png"
+    },
+    {
+      "name": "muse · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/muse.png"
+    },
+    {
+      "name": "muse · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/muse.png"
+    },
+    {
+      "name": "muse · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/muse-color.png"
+    },
+    {
+      "name": "myshell · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/myshell.png"
+    },
+    {
+      "name": "myshell · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/myshell.png"
+    },
+    {
+      "name": "myshell · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/myshell-color.png"
+    },
+    {
+      "name": "n8n · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/n8n.png"
+    },
+    {
+      "name": "n8n · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/n8n.png"
+    },
+    {
+      "name": "n8n · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/n8n-color.png"
+    },
+    {
+      "name": "nanobanana · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nanobanana.png"
+    },
+    {
+      "name": "nanobanana · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nanobanana.png"
+    },
+    {
+      "name": "nanobanana · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nanobanana-color.png"
+    },
+    {
+      "name": "nebius · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nebius.png"
+    },
+    {
+      "name": "nebius · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nebius.png"
+    },
+    {
+      "name": "newapi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/newapi.png"
+    },
+    {
+      "name": "newapi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/newapi.png"
+    },
+    {
+      "name": "newapi · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/newapi-color.png"
+    },
+    {
+      "name": "nextbit · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nextbit.png"
+    },
+    {
+      "name": "nextbit · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nextbit.png"
+    },
+    {
+      "name": "nextbit · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nextbit-color.png"
+    },
+    {
+      "name": "notion · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/notion.png"
+    },
+    {
+      "name": "notion · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/notion.png"
+    },
+    {
+      "name": "nousresearch · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nousresearch.png"
+    },
+    {
+      "name": "nousresearch · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nousresearch.png"
+    },
+    {
+      "name": "nova · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nova.png"
+    },
+    {
+      "name": "nova · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nova.png"
+    },
+    {
+      "name": "nova · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nova-color.png"
+    },
+    {
+      "name": "novelai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/novelai.png"
+    },
+    {
+      "name": "novelai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/novelai.png"
+    },
+    {
+      "name": "novita · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/novita.png"
+    },
+    {
+      "name": "novita · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/novita.png"
+    },
+    {
+      "name": "novita · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/novita-color.png"
+    },
+    {
+      "name": "nplcloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nplcloud.png"
+    },
+    {
+      "name": "nplcloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nplcloud.png"
+    },
+    {
+      "name": "nplcloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nplcloud-color.png"
+    },
+    {
+      "name": "nvidia · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nvidia.png"
+    },
+    {
+      "name": "nvidia · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/nvidia.png"
+    },
+    {
+      "name": "nvidia · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/nvidia-color.png"
+    },
+    {
+      "name": "obsidian · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/obsidian.png"
+    },
+    {
+      "name": "obsidian · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/obsidian.png"
+    },
+    {
+      "name": "obsidian · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/obsidian-color.png"
+    },
+    {
+      "name": "ollama · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ollama.png"
+    },
+    {
+      "name": "ollama · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ollama.png"
+    },
+    {
+      "name": "omlx · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/omlx.png"
+    },
+    {
+      "name": "omlx · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/omlx.png"
+    },
+    {
+      "name": "OpenAI (ChatGPT) · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openai.png"
+    },
+    {
+      "name": "OpenAI (ChatGPT) · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openai.png"
+    },
+    {
+      "name": "openchat · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openchat.png"
+    },
+    {
+      "name": "openchat · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openchat.png"
+    },
+    {
+      "name": "openchat · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openchat-color.png"
+    },
+    {
+      "name": "openclaw · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openclaw.png"
+    },
+    {
+      "name": "openclaw · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openclaw.png"
+    },
+    {
+      "name": "openclaw · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openclaw-color.png"
+    },
+    {
+      "name": "opencode · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/opencode.png"
+    },
+    {
+      "name": "opencode · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/opencode.png"
+    },
+    {
+      "name": "openhands · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openhands.png"
+    },
+    {
+      "name": "openhands · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openhands.png"
+    },
+    {
+      "name": "openhands · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openhands-color.png"
+    },
+    {
+      "name": "openhuman · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openhuman.png"
+    },
+    {
+      "name": "openhuman · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openhuman.png"
+    },
+    {
+      "name": "openrouter · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openrouter.png"
+    },
+    {
+      "name": "openrouter · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openrouter.png"
+    },
+    {
+      "name": "openrouter · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openrouter-color.png"
+    },
+    {
+      "name": "openwebui · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/openwebui.png"
+    },
+    {
+      "name": "openwebui · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/openwebui.png"
+    },
+    {
+      "name": "palm · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/palm.png"
+    },
+    {
+      "name": "palm · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/palm.png"
+    },
+    {
+      "name": "palm · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/palm-color.png"
+    },
+    {
+      "name": "parasail · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/parasail.png"
+    },
+    {
+      "name": "parasail · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/parasail.png"
+    },
+    {
+      "name": "perceptron · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/perceptron.png"
+    },
+    {
+      "name": "perceptron · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/perceptron.png"
+    },
+    {
+      "name": "Perplexity · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/perplexity.png"
+    },
+    {
+      "name": "Perplexity · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/perplexity.png"
+    },
+    {
+      "name": "Perplexity · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/perplexity-color.png"
+    },
+    {
+      "name": "phala · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/phala.png"
+    },
+    {
+      "name": "phala · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/phala.png"
+    },
+    {
+      "name": "phala · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/phala-color.png"
+    },
+    {
+      "name": "phidata · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/phidata.png"
+    },
+    {
+      "name": "phidata · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/phidata.png"
+    },
+    {
+      "name": "phidata · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/phidata-color.png"
+    },
+    {
+      "name": "phind · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/phind.png"
+    },
+    {
+      "name": "phind · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/phind.png"
+    },
+    {
+      "name": "pi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pi.png"
+    },
+    {
+      "name": "pi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/pi.png"
+    },
+    {
+      "name": "pika · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pika.png"
+    },
+    {
+      "name": "pika · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/pika.png"
+    },
+    {
+      "name": "pixverse · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pixverse.png"
+    },
+    {
+      "name": "pixverse · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/pixverse.png"
+    },
+    {
+      "name": "pixverse · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pixverse-color.png"
+    },
+    {
+      "name": "player2 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/player2.png"
+    },
+    {
+      "name": "player2 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/player2.png"
+    },
+    {
+      "name": "player2 · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/player2-color.png"
+    },
+    {
+      "name": "poe · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/poe.png"
+    },
+    {
+      "name": "poe · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/poe.png"
+    },
+    {
+      "name": "poe · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/poe-color.png"
+    },
+    {
+      "name": "poe · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/poe-color.png"
+    },
+    {
+      "name": "pollinations · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pollinations.png"
+    },
+    {
+      "name": "pollinations · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/pollinations.png"
+    },
+    {
+      "name": "poolside · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/poolside.png"
+    },
+    {
+      "name": "poolside · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/poolside.png"
+    },
+    {
+      "name": "poolside · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/poolside-color.png"
+    },
+    {
+      "name": "ppio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ppio.png"
+    },
+    {
+      "name": "ppio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/ppio.png"
+    },
+    {
+      "name": "ppio · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/ppio-color.png"
+    },
+    {
+      "name": "prunaai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/prunaai.png"
+    },
+    {
+      "name": "prunaai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/prunaai.png"
+    },
+    {
+      "name": "prunaai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/prunaai-color.png"
+    },
+    {
+      "name": "pydanticai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pydanticai.png"
+    },
+    {
+      "name": "pydanticai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/pydanticai.png"
+    },
+    {
+      "name": "pydanticai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/pydanticai-color.png"
+    },
+    {
+      "name": "qingyan · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qingyan.png"
+    },
+    {
+      "name": "qingyan · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/qingyan.png"
+    },
+    {
+      "name": "qingyan · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qingyan-color.png"
+    },
+    {
+      "name": "qiniu · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qiniu.png"
+    },
+    {
+      "name": "qiniu · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/qiniu.png"
+    },
+    {
+      "name": "qiniu · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qiniu-color.png"
+    },
+    {
+      "name": "qoder · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qoder.png"
+    },
+    {
+      "name": "qoder · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/qoder.png"
+    },
+    {
+      "name": "qoder · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qoder-color.png"
+    },
+    {
+      "name": "qoder · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/qoder-color.png"
+    },
+    {
+      "name": "Qwen · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qwen.png"
+    },
+    {
+      "name": "Qwen · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/qwen.png"
+    },
+    {
+      "name": "Qwen · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/qwen-color.png"
+    },
+    {
+      "name": "railway · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/railway.png"
+    },
+    {
+      "name": "railway · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/railway.png"
+    },
+    {
+      "name": "recraft · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/recraft.png"
+    },
+    {
+      "name": "recraft · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/recraft.png"
+    },
+    {
+      "name": "reflection · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/reflection.png"
+    },
+    {
+      "name": "reflection · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/reflection.png"
+    },
+    {
+      "name": "reflection · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/reflection-color.png"
+    },
+    {
+      "name": "reka · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/reka.png"
+    },
+    {
+      "name": "reka · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/reka.png"
+    },
+    {
+      "name": "relace · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/relace.png"
+    },
+    {
+      "name": "relace · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/relace.png"
+    },
+    {
+      "name": "replicate · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/replicate.png"
+    },
+    {
+      "name": "replicate · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/replicate.png"
+    },
+    {
+      "name": "replit · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/replit.png"
+    },
+    {
+      "name": "replit · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/replit.png"
+    },
+    {
+      "name": "replit · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/replit-color.png"
+    },
+    {
+      "name": "reve · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/reve.png"
+    },
+    {
+      "name": "reve · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/reve.png"
+    },
+    {
+      "name": "roocode · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/roocode.png"
+    },
+    {
+      "name": "roocode · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/roocode.png"
+    },
+    {
+      "name": "rsshub · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/rsshub.png"
+    },
+    {
+      "name": "rsshub · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/rsshub.png"
+    },
+    {
+      "name": "rsshub · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/rsshub-color.png"
+    },
+    {
+      "name": "runway · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/runway.png"
+    },
+    {
+      "name": "runway · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/runway.png"
+    },
+    {
+      "name": "rwkv · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/rwkv.png"
+    },
+    {
+      "name": "rwkv · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/rwkv.png"
+    },
+    {
+      "name": "rwkv · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/rwkv-color.png"
+    },
+    {
+      "name": "sakana · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sakana.png"
+    },
+    {
+      "name": "sakana · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sakana.png"
+    },
+    {
+      "name": "sakana · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sakana-color.png"
+    },
+    {
+      "name": "sambanova · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sambanova.png"
+    },
+    {
+      "name": "sambanova · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sambanova.png"
+    },
+    {
+      "name": "sambanova · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sambanova-color.png"
+    },
+    {
+      "name": "search1api · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/search1api.png"
+    },
+    {
+      "name": "search1api · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/search1api.png"
+    },
+    {
+      "name": "search1api · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/search1api-color.png"
+    },
+    {
+      "name": "searchapi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/searchapi.png"
+    },
+    {
+      "name": "searchapi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/searchapi.png"
+    },
+    {
+      "name": "searxng · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/searxng.png"
+    },
+    {
+      "name": "searxng · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/searxng.png"
+    },
+    {
+      "name": "searxng · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/searxng-color.png"
+    },
+    {
+      "name": "sensenova · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sensenova.png"
+    },
+    {
+      "name": "sensenova · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sensenova.png"
+    },
+    {
+      "name": "sensenova · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sensenova-color.png"
+    },
+    {
+      "name": "siliconcloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/siliconcloud.png"
+    },
+    {
+      "name": "siliconcloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/siliconcloud.png"
+    },
+    {
+      "name": "siliconcloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/siliconcloud-color.png"
+    },
+    {
+      "name": "sillytavern · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sillytavern.png"
+    },
+    {
+      "name": "sillytavern · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sillytavern.png"
+    },
+    {
+      "name": "sillytavern · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sillytavern-color.png"
+    },
+    {
+      "name": "sillytavern · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sillytavern-color.png"
+    },
+    {
+      "name": "skywork · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/skywork.png"
+    },
+    {
+      "name": "skywork · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/skywork.png"
+    },
+    {
+      "name": "skywork · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/skywork-color.png"
+    },
+    {
+      "name": "slock · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/slock.png"
+    },
+    {
+      "name": "slock · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/slock.png"
+    },
+    {
+      "name": "smithery · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/smithery.png"
+    },
+    {
+      "name": "smithery · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/smithery.png"
+    },
+    {
+      "name": "smithery · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/smithery-color.png"
+    },
+    {
+      "name": "snowflake · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/snowflake.png"
+    },
+    {
+      "name": "snowflake · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/snowflake.png"
+    },
+    {
+      "name": "snowflake · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/snowflake-color.png"
+    },
+    {
+      "name": "sophnet · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sophnet.png"
+    },
+    {
+      "name": "sophnet · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sophnet.png"
+    },
+    {
+      "name": "sophnet · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sophnet-color.png"
+    },
+    {
+      "name": "sora · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sora.png"
+    },
+    {
+      "name": "sora · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sora.png"
+    },
+    {
+      "name": "sora · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sora-color.png"
+    },
+    {
+      "name": "spark · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/spark.png"
+    },
+    {
+      "name": "spark · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/spark.png"
+    },
+    {
+      "name": "spark · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/spark-color.png"
+    },
+    {
+      "name": "speedai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/speedai.png"
+    },
+    {
+      "name": "speedai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/speedai.png"
+    },
+    {
+      "name": "speedai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/speedai-color.png"
+    },
+    {
+      "name": "stability · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/stability.png"
+    },
+    {
+      "name": "stability · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/stability.png"
+    },
+    {
+      "name": "stability · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/stability-color.png"
+    },
+    {
+      "name": "statecloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/statecloud.png"
+    },
+    {
+      "name": "statecloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/statecloud.png"
+    },
+    {
+      "name": "statecloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/statecloud-color.png"
+    },
+    {
+      "name": "stepfun · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/stepfun.png"
+    },
+    {
+      "name": "stepfun · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/stepfun.png"
+    },
+    {
+      "name": "stepfun · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/stepfun-color.png"
+    },
+    {
+      "name": "straico · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/straico.png"
+    },
+    {
+      "name": "straico · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/straico.png"
+    },
+    {
+      "name": "straico · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/straico-color.png"
+    },
+    {
+      "name": "streamlake · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/streamlake.png"
+    },
+    {
+      "name": "streamlake · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/streamlake.png"
+    },
+    {
+      "name": "streamlake · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/streamlake-color.png"
+    },
+    {
+      "name": "sub2api · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sub2api.png"
+    },
+    {
+      "name": "sub2api · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sub2api.png"
+    },
+    {
+      "name": "sub2api · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sub2api-color.png"
+    },
+    {
+      "name": "submodel · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/submodel.png"
+    },
+    {
+      "name": "submodel · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/submodel.png"
+    },
+    {
+      "name": "submodel · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/submodel-color.png"
+    },
+    {
+      "name": "suno · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/suno.png"
+    },
+    {
+      "name": "suno · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/suno.png"
+    },
+    {
+      "name": "sync · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/sync.png"
+    },
+    {
+      "name": "sync · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/sync.png"
+    },
+    {
+      "name": "tabbit · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tabbit.png"
+    },
+    {
+      "name": "tabbit · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tabbit.png"
+    },
+    {
+      "name": "tabbit · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tabbit-color.png"
+    },
+    {
+      "name": "targon · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/targon.png"
+    },
+    {
+      "name": "targon · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/targon.png"
+    },
+    {
+      "name": "targon · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/targon-color.png"
+    },
+    {
+      "name": "tavily · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tavily.png"
+    },
+    {
+      "name": "tavily · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tavily.png"
+    },
+    {
+      "name": "tavily · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tavily-color.png"
+    },
+    {
+      "name": "tencent · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tencent.png"
+    },
+    {
+      "name": "tencent · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tencent.png"
+    },
+    {
+      "name": "tencent · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tencent-color.png"
+    },
+    {
+      "name": "tencentcloud · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tencentcloud.png"
+    },
+    {
+      "name": "tencentcloud · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tencentcloud.png"
+    },
+    {
+      "name": "tencentcloud · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tencentcloud-color.png"
+    },
+    {
+      "name": "tiangong · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tiangong.png"
+    },
+    {
+      "name": "tiangong · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tiangong.png"
+    },
+    {
+      "name": "tiangong · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tiangong-color.png"
+    },
+    {
+      "name": "tii · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tii.png"
+    },
+    {
+      "name": "tii · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tii.png"
+    },
+    {
+      "name": "tii · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tii-color.png"
+    },
+    {
+      "name": "together · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/together.png"
+    },
+    {
+      "name": "together · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/together.png"
+    },
+    {
+      "name": "together · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/together-color.png"
+    },
+    {
+      "name": "topazlabs · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/topazlabs.png"
+    },
+    {
+      "name": "topazlabs · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/topazlabs.png"
+    },
+    {
+      "name": "trae · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/trae.png"
+    },
+    {
+      "name": "trae · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/trae.png"
+    },
+    {
+      "name": "trae · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/trae-color.png"
+    },
+    {
+      "name": "tripo · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tripo.png"
+    },
+    {
+      "name": "tripo · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tripo.png"
+    },
+    {
+      "name": "tripo · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/tripo-color.png"
+    },
+    {
+      "name": "tripo · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/tripo-color.png"
+    },
+    {
+      "name": "turix · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/turix.png"
+    },
+    {
+      "name": "turix · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/turix.png"
+    },
+    {
+      "name": "typesafeai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/typesafeai.png"
+    },
+    {
+      "name": "typesafeai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/typesafeai.png"
+    },
+    {
+      "name": "udio · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/udio.png"
+    },
+    {
+      "name": "udio · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/udio.png"
+    },
+    {
+      "name": "udio · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/udio-color.png"
+    },
+    {
+      "name": "unionalpha · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/unionalpha.png"
+    },
+    {
+      "name": "unionalpha · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/unionalpha.png"
+    },
+    {
+      "name": "unionalpha · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/unionalpha-color.png"
+    },
+    {
+      "name": "unionalpha · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/unionalpha-color.png"
+    },
+    {
+      "name": "unsloth · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/unsloth.png"
+    },
+    {
+      "name": "unsloth · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/unsloth.png"
+    },
+    {
+      "name": "unsloth · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/unsloth-color.png"
+    },
+    {
+      "name": "unstructured · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/unstructured.png"
+    },
+    {
+      "name": "unstructured · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/unstructured.png"
+    },
+    {
+      "name": "unstructured · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/unstructured-color.png"
+    },
+    {
+      "name": "upstage · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/upstage.png"
+    },
+    {
+      "name": "upstage · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/upstage.png"
+    },
+    {
+      "name": "upstage · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/upstage-color.png"
+    },
+    {
+      "name": "v0 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/v0.png"
+    },
+    {
+      "name": "v0 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/v0.png"
+    },
+    {
+      "name": "vectorizerai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vectorizerai.png"
+    },
+    {
+      "name": "vectorizerai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/vectorizerai.png"
+    },
+    {
+      "name": "venice · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/venice.png"
+    },
+    {
+      "name": "venice · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/venice.png"
+    },
+    {
+      "name": "venice · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/venice-color.png"
+    },
+    {
+      "name": "vercel · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vercel.png"
+    },
+    {
+      "name": "vercel · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/vercel.png"
+    },
+    {
+      "name": "vertexai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vertexai.png"
+    },
+    {
+      "name": "vertexai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/vertexai.png"
+    },
+    {
+      "name": "vertexai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vertexai-color.png"
+    },
+    {
+      "name": "vidu · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vidu.png"
+    },
+    {
+      "name": "vidu · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/vidu.png"
+    },
+    {
+      "name": "vidu · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vidu-color.png"
+    },
+    {
+      "name": "viggle · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/viggle.png"
+    },
+    {
+      "name": "viggle · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/viggle.png"
+    },
+    {
+      "name": "vllm · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vllm.png"
+    },
+    {
+      "name": "vllm · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/vllm.png"
+    },
+    {
+      "name": "vllm · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/vllm-color.png"
+    },
+    {
+      "name": "volcengine · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/volcengine.png"
+    },
+    {
+      "name": "volcengine · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/volcengine.png"
+    },
+    {
+      "name": "volcengine · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/volcengine-color.png"
+    },
+    {
+      "name": "voyage · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/voyage.png"
+    },
+    {
+      "name": "voyage · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/voyage.png"
+    },
+    {
+      "name": "voyage · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/voyage-color.png"
+    },
+    {
+      "name": "wafer · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/wafer.png"
+    },
+    {
+      "name": "wafer · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/wafer.png"
+    },
+    {
+      "name": "wandb · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/wandb.png"
+    },
+    {
+      "name": "wandb · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/wandb.png"
+    },
+    {
+      "name": "wandb · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/wandb-color.png"
+    },
+    {
+      "name": "wavespeed · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/wavespeed.png"
+    },
+    {
+      "name": "wavespeed · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/wavespeed.png"
+    },
+    {
+      "name": "wenxin · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/wenxin.png"
+    },
+    {
+      "name": "wenxin · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/wenxin.png"
+    },
+    {
+      "name": "wenxin · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/wenxin-color.png"
+    },
+    {
+      "name": "windsurf · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/windsurf.png"
+    },
+    {
+      "name": "windsurf · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/windsurf.png"
+    },
+    {
+      "name": "workbuddy · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/workbuddy.png"
+    },
+    {
+      "name": "workbuddy · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/workbuddy.png"
+    },
+    {
+      "name": "workbuddy · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/workbuddy-color.png"
+    },
+    {
+      "name": "workersai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/workersai.png"
+    },
+    {
+      "name": "workersai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/workersai.png"
+    },
+    {
+      "name": "workersai · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/workersai-color.png"
+    },
+    {
+      "name": "worldrouter · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/worldrouter.png"
+    },
+    {
+      "name": "worldrouter · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/worldrouter.png"
+    },
+    {
+      "name": "xai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xai.png"
+    },
+    {
+      "name": "xai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/xai.png"
+    },
+    {
+      "name": "xiaomimimo · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xiaomimimo.png"
+    },
+    {
+      "name": "xiaomimimo · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/xiaomimimo.png"
+    },
+    {
+      "name": "xinference · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xinference.png"
+    },
+    {
+      "name": "xinference · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/xinference.png"
+    },
+    {
+      "name": "xinference · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xinference-color.png"
+    },
+    {
+      "name": "xpay · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xpay.png"
+    },
+    {
+      "name": "xpay · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/xpay.png"
+    },
+    {
+      "name": "xpay · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xpay-color.png"
+    },
+    {
+      "name": "xpay · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/xpay-color.png"
+    },
+    {
+      "name": "xuanyuan · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xuanyuan.png"
+    },
+    {
+      "name": "xuanyuan · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/xuanyuan.png"
+    },
+    {
+      "name": "xuanyuan · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/xuanyuan-color.png"
+    },
+    {
+      "name": "yandex · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/yandex.png"
+    },
+    {
+      "name": "yandex · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/yandex.png"
+    },
+    {
+      "name": "yi · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/yi.png"
+    },
+    {
+      "name": "yi · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/yi.png"
+    },
+    {
+      "name": "yi · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/yi-color.png"
+    },
+    {
+      "name": "yi · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/yi-color.png"
+    },
+    {
+      "name": "youmind · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/youmind.png"
+    },
+    {
+      "name": "youmind · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/youmind.png"
+    },
+    {
+      "name": "yuanbao · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/yuanbao.png"
+    },
+    {
+      "name": "yuanbao · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/yuanbao.png"
+    },
+    {
+      "name": "yuanbao · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/yuanbao-color.png"
+    },
+    {
+      "name": "zai · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zai.png"
+    },
+    {
+      "name": "zai · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zai.png"
+    },
+    {
+      "name": "zapier · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zapier.png"
+    },
+    {
+      "name": "zapier · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zapier.png"
+    },
+    {
+      "name": "zapier · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zapier-color.png"
+    },
+    {
+      "name": "zeabur · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zeabur.png"
+    },
+    {
+      "name": "zeabur · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zeabur.png"
+    },
+    {
+      "name": "zeabur · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zeabur-color.png"
+    },
+    {
+      "name": "zeabur · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zeabur-color.png"
+    },
+    {
+      "name": "zencoder · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zencoder.png"
+    },
+    {
+      "name": "zencoder · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zencoder.png"
+    },
+    {
+      "name": "zencoder · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zencoder-color.png"
+    },
+    {
+      "name": "zenmux · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zenmux.png"
+    },
+    {
+      "name": "zenmux · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zenmux.png"
+    },
+    {
+      "name": "zeroone · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zeroone.png"
+    },
+    {
+      "name": "zeroone · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zeroone.png"
+    },
+    {
+      "name": "zeroone · 彩色 · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zeroone-color.png"
+    },
+    {
+      "name": "zeroone · 彩色 · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zeroone-color.png"
+    },
+    {
+      "name": "zhipu · 浅色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zhipu.png"
+    },
+    {
+      "name": "zhipu · 深色界面",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/dark/zhipu.png"
+    },
+    {
+      "name": "zhipu · 彩色",
+      "url": "https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.12.0/light/zhipu-color.png"
+    }
+  ]
+}
